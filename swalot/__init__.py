@@ -1,4 +1,4 @@
-from .swalot import MemoryProtector, AutoMemoryProtector
+from .gpu import MemoryProtector, AutoMemoryProtector
 from .time import TimeController
 
 def gpu(remain=256, device=0):
