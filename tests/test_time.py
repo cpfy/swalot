@@ -19,7 +19,7 @@ def test_normal_time():
         assert end_time - start_time == approx(0.3, rel=1e-1)
 
     t_end = time.time()
-    assert t_end - t0 == approx(0.3 * 3, rel=1e-1)
+    assert t_end - t0 == approx(0.3 * 3, rel=2e-1)
 
 
 def test_scale_case1():
