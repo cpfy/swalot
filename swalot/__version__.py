@@ -11,7 +11,7 @@
 
 __title__ = 'swalot'
 __license__ = 'MIT'
-__version__ = '0.0.2'
+__version__ = '0.0.3.post2'
 __author__ = 'cpfy'
 __contact__ = '309301477@qq.com'
 __url__ = 'https://github.com/cpfy/swalot'
